@@ -14,11 +14,11 @@ $ pip2 install mechanize
 
 $ pkg install git
 
-$ git clone https://github.com/Mr-Devil-007/2007.git
+$ git clone https://github.com/Mr-Devil-007/2008.git
 
-$ cd 2007
+$ cd 2008
 
-$ python2 7.py
+$ python2 2008.py
 
 # Old Facebook Account Cloner.
 # I'm Not Hacker Just 👉Cloner...👈
